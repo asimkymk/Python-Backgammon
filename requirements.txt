@@ -1,0 +1,6 @@
+python version 3.8
+
+Table UI Library Installing:
+
+-> pip install Texttable
+
